@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/CateringNew/static/css/main.7d80a597.css",
+    "main.js": "/CateringNew/static/js/main.9f8bdadc.js",
+    "static/media/catringimage2.png": "/CateringNew/static/media/catringimage2.27f8a1d9aa4534d636ba.png",
+    "static/media/backgroud.png": "/CateringNew/static/media/backgroud.f7570658de3b59c799e2.png",
+    "static/media/background.png": "/CateringNew/static/media/background.86b02a3efa05e76a1a7f.png",
+    "static/media/shashank.png": "/CateringNew/static/media/shashank.5b7be28376f9836a0f34.png",
+    "static/media/sourabh.png": "/CateringNew/static/media/sourabh.0cc685bc743d05fb6624.png",
+    "static/media/image-shiva.jpg": "/CateringNew/static/media/image-shiva.af26f13fb8554d76b40e.jpg",
+    "static/media/contact1.png": "/CateringNew/static/media/contact1.faf3cae1dc7dcef96990.png",
+    "static/media/middle.png": "/CateringNew/static/media/middle.399241272b29b3e8b4d7.png",
+    "static/media/recomend.png": "/CateringNew/static/media/recomend.12a4ccfd8e4d267133a1.png",
+    "static/media/customize.png": "/CateringNew/static/media/customize.a43f6d3ae7e07a06a66a.png",
+    "static/media/plate.png": "/CateringNew/static/media/plate.5a2ada37ea57577148ce.png",
+    "static/media/marriage_out.png": "/CateringNew/static/media/marriage_out.36aa75893e528d18243d.png",
+    "static/media/4.png": "/CateringNew/static/media/4.c5f5a8d010a982d01b21.png",
+    "static/media/plate3.png": "/CateringNew/static/media/plate3.3fc366746e67191bf8df.png",
+    "static/media/2.png": "/CateringNew/static/media/2.91302dded78fc9b41606.png",
+    "static/media/plate2.png": "/CateringNew/static/media/plate2.9215f5961cb8bf2f7464.png",
+    "static/media/3.png": "/CateringNew/static/media/3.79e99e75976eb1c73e5c.png",
+    "static/media/1.png": "/CateringNew/static/media/1.9d3c7acdf1f7872c4797.png",
+    "static/media/logo.png": "/CateringNew/static/media/logo.5a81996dc691237817f5.png",
+    "static/media/add-icon.png": "/CateringNew/static/media/add-icon.132696644e79a1f05c3b.png",
+    "static/media/logo2.png": "/CateringNew/static/media/logo2.5638329d6ad2e36ea6af.png",
+    "index.html": "/CateringNew/index.html",
+    "main.7d80a597.css.map": "/CateringNew/static/css/main.7d80a597.css.map",
+    "main.9f8bdadc.js.map": "/CateringNew/static/js/main.9f8bdadc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d80a597.css",
+    "static/js/main.9f8bdadc.js"
+  ]
+}
