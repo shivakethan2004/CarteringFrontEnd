@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CarteringFrontEnd/static/css/main.167f60ee.css",
-    "main.js": "/CarteringFrontEnd/static/js/main.d56e52fa.js",
+    "main.js": "/CarteringFrontEnd/static/js/main.ba09168a.js",
     "static/media/catringimage2.png": "/CarteringFrontEnd/static/media/catringimage2.27f8a1d9aa4534d636ba.png",
     "static/media/backgroud.png": "/CarteringFrontEnd/static/media/backgroud.f7570658de3b59c799e2.png",
     "static/media/background.png": "/CarteringFrontEnd/static/media/background.86b02a3efa05e76a1a7f.png",
@@ -25,10 +25,10 @@
     "static/media/logo2.png": "/CarteringFrontEnd/static/media/logo2.5638329d6ad2e36ea6af.png",
     "index.html": "/CarteringFrontEnd/index.html",
     "main.167f60ee.css.map": "/CarteringFrontEnd/static/css/main.167f60ee.css.map",
-    "main.d56e52fa.js.map": "/CarteringFrontEnd/static/js/main.d56e52fa.js.map"
+    "main.ba09168a.js.map": "/CarteringFrontEnd/static/js/main.ba09168a.js.map"
   },
   "entrypoints": [
     "static/css/main.167f60ee.css",
-    "static/js/main.d56e52fa.js"
+    "static/js/main.ba09168a.js"
   ]
 }
