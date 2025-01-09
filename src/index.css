@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  margin: 0;
+  padding: 0;
+}
+body, button, input {
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body{
+  max-width: 100vh;
+  min-height: 100vh;
+  overflow:auto;
+
+  
+}
+body::-webkit-scrollbar{
+  display: none;
+}
+.gradient-text {
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+/* Custom Styles for Card Flip */
+.perspective {
+  perspective: 1000px; /* Enable 3D perspective */
+}
+
+.backface-hidden {
+  backface-visibility: hidden; /* Hide the backface of the card */
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg); /* Flip card to 180 degrees */
+}

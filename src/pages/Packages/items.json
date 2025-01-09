@@ -1,0 +1,1863 @@
+{
+    "WELCOME_SWEETS": [
+      {
+        "name": "TIRANGA BURFI",
+        "description": "A colorful layered sweet made from milk solids and sugar, representing the Indian tricolor.",
+        "image_url": "https://example.com/images/tiranga_burfi.jpg"
+      },
+      {
+        "name": "KAJU BURFI",
+        "description": "A rich and creamy cashew-based sweet, a popular delicacy in Indian festivities.",
+        "image_url": "https://example.com/images/kaju_burfi.jpg"
+      },
+      {
+        "name": "KAJUKATHLI",
+        "description": "Thin diamond-shaped cashew fudge, soft and melts in your mouth.",
+        "image_url": "https://example.com/images/kajukathli.jpg"
+      },
+      {
+        "name": "ANGEERROLL",
+        "description": "A healthy and delicious sweet roll made with dried figs and nuts.",
+        "image_url": "https://example.com/images/angeerroll.jpg"
+      },
+      {
+        "name": "PISTA BURFI",
+        "description": "A vibrant green pistachio-flavored fudge, known for its nutty flavor.",
+        "image_url": "https://example.com/images/pista_burfi.jpg"
+      },
+      {
+        "name": "BADAM BURFI",
+        "description": "A rich almond-based sweet, perfect for celebrations and gifting.",
+        "image_url": "https://example.com/images/badam_burfi.jpg"
+      },
+      {
+        "name": "MINI SANDWICH",
+        "description": "A unique layered sweet resembling a mini sandwich, made with condensed milk and nuts.",
+        "image_url": "https://example.com/images/mini_sandwich.jpg"
+      },
+      {
+        "name": "FRUIT BURFI",
+        "description": "A colorful sweet made with a blend of fruits and milk solids, offering a fruity twist.",
+        "image_url": "https://example.com/images/fruit_burfi.jpg"
+      },
+      {
+        "name": "KESARIBALL",
+        "description": "Small saffron-flavored sweet balls, packed with rich aroma and taste.",
+        "image_url": "https://example.com/images/kesariball.jpg"
+      },
+      {
+        "name": "KAJU SANGAM",
+        "description": "A fusion sweet made with cashew nuts and a mix of other flavors.",
+        "image_url": "https://example.com/images/kaju_sangam.jpg"
+      },
+      {
+        "name": "ICE CREAM LOLLYPOP",
+        "description": "A fun and innovative sweet resembling an ice cream lolly, popular among kids.",
+        "image_url": "https://example.com/images/ice_cream_lollypop.jpg"
+      },
+      {
+        "name": "PISTA KATLI",
+        "description": "A thin pistachio fudge, similar to kaju katli but with a distinct pistachio flavor.",
+        "image_url": "https://example.com/images/pista_katli.jpg"
+      },
+      {
+        "name": "TIRANGA CHUM-CHUM",
+        "description": "A tricolor version of the classic chum-chum sweet, soft and juicy.",
+        "image_url": "https://example.com/images/tiranga_chum_chum.jpg"
+      },
+      {
+        "name": "AUSTRALIAN GRAPE (FRUIT)",
+        "description": "Fresh Australian grapes, known for their juicy and sweet taste.",
+        "image_url": "https://example.com/images/australian_grape.jpg"
+      }
+    ],
+  
+  
+    "WELCOME_SNACKS": [
+      {
+        "name": "VEG. MANCHURIA DRY",
+        "description": "A crispy and spicy dry vegetable Manchurian snack made with mixed vegetables and flavorful spices.",
+        "image_url": "https://example.com/images/veg_manchuria_dry.jpg"
+      },
+      {
+        "name": "BABYCORN MANCHURIA",
+        "description": "Crunchy baby corn coated in a tangy Manchurian sauce, perfect as a starter.",
+        "image_url": "https://example.com/images/babycorn_manchuria.jpg"
+      },
+      {
+        "name": "PANNEER MANCHURIA",
+        "description": "Soft paneer cubes tossed in a flavorful Manchurian sauce.",
+        "image_url": "https://example.com/images/paneer_manchuria.jpg"
+      },
+      {
+        "name": "BABYCORN 65",
+        "description": "Crispy fried baby corn spiced with the traditional '65' masala flavors.",
+        "image_url": "https://example.com/images/babycorn_65.jpg"
+      },
+      {
+        "name": "PANNEER 65",
+        "description": "A classic South Indian-style paneer snack, deep-fried with a spicy coating.",
+        "image_url": "https://example.com/images/paneer_65.jpg"
+      },
+      {
+        "name": "CORN TIKIA",
+        "description": "Golden fried corn patties flavored with spices and herbs, crispy and delicious.",
+        "image_url": "https://example.com/images/corn_tikia.jpg"
+      },
+      {
+        "name": "CORN CHEESE ROLL",
+        "description": "A cheesy delight stuffed with sweet corn and creamy cheese, rolled and fried to perfection.",
+        "image_url": "https://example.com/images/corn_cheese_roll.jpg"
+      },
+      {
+        "name": "BABYCORN FRENCH FRY",
+        "description": "Thin strips of baby corn coated with batter and fried, a perfect crunchy snack.",
+        "image_url": "https://example.com/images/babycorn_french_fry.jpg"
+      },
+      {
+        "name": "AMERICAN CORN",
+        "description": "Sweet and buttery American-style corn kernels served hot.",
+        "image_url": "https://example.com/images/american_corn.jpg"
+      },
+      {
+        "name": "BABY CORN CHILLY FRY",
+        "description": "Baby corn stir-fried with chilies and a flavorful mix of sauces.",
+        "image_url": "https://example.com/images/babycorn_chilly_fry.jpg"
+      },
+      {
+        "name": "CHILLY PANNEER",
+        "description": "Spicy and tangy paneer cubes cooked with peppers and chilies in an Indo-Chinese style.",
+        "image_url": "https://example.com/images/chilly_paneer.jpg"
+      },
+      {
+        "name": "ALU FINGER CHIPS",
+        "description": "Classic potato finger fries, golden and crispy, loved by all.",
+        "image_url": "https://example.com/images/alu_finger_chips.jpg"
+      },
+      {
+        "name": "GOLD COIN",
+        "description": "Crispy fried bread coin topped with a savory filling, golden and delicious.",
+        "image_url": "https://example.com/images/gold_coin.jpg"
+      },
+      {
+        "name": "MINI VEG. BULLET",
+        "description": "Spicy vegetable dumplings deep-fried to golden perfection.",
+        "image_url": "https://example.com/images/mini_veg_bullet.jpg"
+      },
+      {
+        "name": "VEG. SPRING ROLL",
+        "description": "Crispy fried spring rolls stuffed with seasoned vegetables.",
+        "image_url": "https://example.com/images/veg_spring_roll.jpg"
+      },
+      {
+        "name": "DRAGON ROLL",
+        "description": "An exotic snack with a unique blend of spicy and tangy flavors.",
+        "image_url": "https://example.com/images/dragon_roll.jpg"
+      },
+      {
+        "name": "BABY CORN LOLLY POP",
+        "description": "Baby corn coated with spices and skewered for a fun and crunchy snack.",
+        "image_url": "https://example.com/images/baby_corn_lollypop.jpg"
+      },
+      {
+        "name": "PANNEER LOLLY POP",
+        "description": "Paneer cubes coated in a spicy batter and served on skewers.",
+        "image_url": "https://example.com/images/paneer_lollypop.jpg"
+      },
+      {
+        "name": "KOTHIMEERA KALI",
+        "description": "A flavorful coriander-based snack with a hint of spice.",
+        "image_url": "https://example.com/images/kothimeera_kali.jpg"
+      },
+      {
+        "name": "MOON-MOON",
+        "description": "A unique snack with a mysterious twist, perfect for special occasions.",
+        "image_url": "https://example.com/images/moon_moon.jpg"
+      }
+    ],
+    "MILKSHAKES": [
+      {
+        "name": "PINE APPLE MILK SHAKE",
+        "description": "A refreshing milkshake made with the sweetness of pineapple blended with creamy milk.",
+        "image_url": "https://example.com/images/pineapple_milkshake.jpg"
+      },
+      {
+        "name": "ORANGE MILK SHAKE",
+        "description": "A tangy and sweet orange-flavored milkshake for a citrusy treat.",
+        "image_url": "https://example.com/images/orange_milkshake.jpg"
+      },
+      {
+        "name": "STRAWBERRY MILK SHAKE",
+        "description": "A classic strawberry milkshake loaded with fresh strawberries and milk.",
+        "image_url": "https://example.com/images/strawberry_milkshake.jpg"
+      },
+      {
+        "name": "LICHI MILK SHAKE",
+        "description": "A luscious and creamy milkshake made with sweet lychees.",
+        "image_url": "https://example.com/images/lichi_milkshake.jpg"
+      },
+      {
+        "name": "MANGO MILK SHAKE",
+        "description": "A tropical delight made with ripe mangoes blended into creamy milk.",
+        "image_url": "https://example.com/images/mango_milkshake.jpg"
+      },
+      {
+        "name": "SAPOTA MILK SHAKE",
+        "description": "A nutritious milkshake with the natural sweetness of sapota (chikoo).",
+        "image_url": "https://example.com/images/sapota_milkshake.jpg"
+      },
+      {
+        "name": "APPLE MILK SHAKE",
+        "description": "A wholesome and delicious milkshake prepared with fresh apples.",
+        "image_url": "https://example.com/images/apple_milkshake.jpg"
+      },
+      {
+        "name": "VANILLA MILK SHAKE",
+        "description": "A smooth and creamy milkshake with classic vanilla flavor.",
+        "image_url": "https://example.com/images/vanilla_milkshake.jpg"
+      },
+      {
+        "name": "BUTTER SCOTCH MILK SHAKE",
+        "description": "A delightful blend of butterscotch flavor and milk, topped with nuts.",
+        "image_url": "https://example.com/images/butterscotch_milkshake.jpg"
+      },
+      {
+        "name": "CHOCOLATE MILK SHAKE",
+        "description": "Rich and indulgent chocolate milkshake, a favorite for chocolate lovers.",
+        "image_url": "https://example.com/images/chocolate_milkshake.jpg"
+      }
+    ],
+    "PUNCHES_WITH_CREAMS": [
+      {
+        "name": "LICHI PUNCH & ICE CREAM",
+        "description": "A refreshing lychee punch topped with creamy ice cream.",
+        "image_url": "https://example.com/images/lichi_punch_icecream.jpg"
+      },
+      {
+        "name": "CHOCOLATE PUNCH",
+        "description": "A heavenly chocolate punch infused with creamy goodness.",
+        "image_url": "https://example.com/images/chocolate_punch.jpg"
+      },
+      {
+        "name": "DRY FRUIT PUNCH",
+        "description": "A rich punch made with assorted dry fruits for a nutty and creamy flavor.",
+        "image_url": "https://example.com/images/dryfruit_punch.jpg"
+      },
+      {
+        "name": "PINE APPLE PUNCH",
+        "description": "A tropical punch featuring the sweet and tangy flavor of pineapple.",
+        "image_url": "https://example.com/images/pineapple_punch.jpg"
+      },
+      {
+        "name": "BLACK CURRENT BLOSSOM",
+        "description": "A punch bursting with the bold flavor of blackcurrants.",
+        "image_url": "https://example.com/images/blackcurrent_blossom.jpg"
+      },
+      {
+        "name": "KESAR PUNCH",
+        "description": "A luxurious saffron punch enriched with creamy milk.",
+        "image_url": "https://example.com/images/kesar_punch.jpg"
+      },
+      {
+        "name": "FRUIT PUNCH",
+        "description": "A mix of seasonal fruits blended into a refreshing punch.",
+        "image_url": "https://example.com/images/fruit_punch.jpg"
+      },
+      {
+        "name": "ORANGE PUNCH",
+        "description": "A citrusy punch packed with the fresh flavor of oranges.",
+        "image_url": "https://example.com/images/orange_punch.jpg"
+      },
+      {
+        "name": "ICE CREAM FLOAT WITH SODA",
+        "description": "A fun and fizzy soda-based punch topped with a scoop of ice cream.",
+        "image_url": "https://example.com/images/icecream_float_soda.jpg"
+      },
+      {
+        "name": "KIWI PUNCH",
+        "description": "A vibrant punch made with the exotic taste of kiwis.",
+        "image_url": "https://example.com/images/kiwi_punch.jpg"
+      },
+      {
+        "name": "PEACH & APPLE",
+        "description": "A sweet and tangy punch combining the flavors of peach and apple.",
+        "image_url": "https://example.com/images/peach_apple_punch.jpg"
+      },
+      {
+        "name": "AUSTRALIAN PUNCH",
+        "description": "An exotic punch featuring a mix of tropical fruits.",
+        "image_url": "https://example.com/images/australian_punch.jpg"
+      },
+      {
+        "name": "PINE APPLE COLODA",
+        "description": "A creamy pineapple colada with a hint of coconut.",
+        "image_url": "https://example.com/images/pineapple_coloda.jpg"
+      }
+    ],
+    "JUICES": [
+      {
+        "name": "PINE APPLE JUICE",
+        "description": "Freshly extracted pineapple juice with a sweet and tangy flavor.",
+        "image_url": "https://example.com/images/pineapple_juice.jpg"
+      },
+      {
+        "name": "GRAPE JUICE",
+        "description": "Refreshing grape juice with a naturally sweet flavor.",
+        "image_url": "https://example.com/images/grape_juice.jpg"
+      },
+      {
+        "name": "ANAAR JUICE",
+        "description": "Healthy pomegranate juice loaded with antioxidants.",
+        "image_url": "https://example.com/images/anaar_juice.jpg"
+      },
+      {
+        "name": "COCKTAIL JUICE",
+        "description": "A mix of tropical fruits blended into a flavorful juice.",
+        "image_url": "https://example.com/images/cocktail_juice.jpg"
+      },
+      {
+        "name": "WATER MELON JUICE",
+        "description": "Cool and hydrating watermelon juice for a summer refreshment.",
+        "image_url": "https://example.com/images/watermelon_juice.jpg"
+      },
+      {
+        "name": "MANGO JUICE",
+        "description": "A luscious juice made from sweet, ripe mangoes.",
+        "image_url": "https://example.com/images/mango_juice.jpg"
+      },
+      {
+        "name": "ORANGE JUICE",
+        "description": "Freshly squeezed orange juice packed with vitamin C.",
+        "image_url": "https://example.com/images/orange_juice.jpg"
+      },
+      {
+        "name": "KHARBHUJA JUICE",
+        "description": "Sweet and cooling muskmelon juice, perfect for hot days.",
+        "image_url": "https://example.com/images/kharbhuja_juice.jpg"
+      },
+      {
+        "name": "SAPOTA JUICE",
+        "description": "Nutritious sapota (chikoo) juice with a rich and natural sweetness.",
+        "image_url": "https://example.com/images/sapota_juice.jpg"
+      }
+    ],
+     "COMMON_SWEETS": [
+      {
+        "name": "LADDU",
+        "description": "Traditional Indian sweet made of flour and sugar, deep-fried in ghee.",
+        "image_url": "https://example.com/images/laddu.jpg"
+      },
+      {
+        "name": "MOTI CHUR LADDU",
+        "description": "A variety of laddu made with small balls of flour and sugar syrup.",
+        "image_url": "https://example.com/images/moti_chur_laddu.jpg"
+      },
+      {
+        "name": "BADUSHA",
+        "description": "Fried sweet dough soaked in sugar syrup.",
+        "image_url": "https://example.com/images/badusha.jpg"
+      },
+      {
+        "name": "GULAB JAMOON",
+        "description": "Deep-fried dough balls soaked in rose-flavored sugar syrup.",
+        "image_url": "https://example.com/images/gulab_jamoon.jpg"
+      },
+      {
+        "name": "KALA JAMOON",
+        "description": "A variation of Gulab Jamoon, typically made with khoya and fried till dark.",
+        "image_url": "https://example.com/images/kala_jamoon.jpg"
+      },
+      {
+        "name": "DOUBLE KA MEETA",
+        "description": "A bread-based dessert soaked in milk and flavored with dry fruits and saffron.",
+        "image_url": "https://example.com/images/double_ka_meeta.jpg"
+      },
+      {
+        "name": "KURBAANI KA MEETA",
+        "description": "A dessert made with stewed apricots, sugar, and dry fruits.",
+        "image_url": "https://example.com/images/kurbaani_ka_meeta.jpg"
+      },
+      {
+        "name": "KADDU KHEER",
+        "description": "Sweet pumpkin pudding made with milk and sugar.",
+        "image_url": "https://example.com/images/kaddu_kheer.jpg"
+      },
+      {
+        "name": "BOBBATLU",
+        "description": "A stuffed flatbread filled with jaggery and lentil paste, deep-fried.",
+        "image_url": "https://example.com/images/bobbatlu.jpg"
+      },
+      {
+        "name": "POORNAM BOORELU",
+        "description": "Deep-fried sweets stuffed with a mixture of jaggery and dal.",
+        "image_url": "https://example.com/images/poornam_boorelu.jpg"
+      }
+    ],
+    "PETA_SWEETS": [
+      {
+        "name": "PAAN PETA",
+        "description": "A sweet made from betel leaf flavor and sugar.",
+        "image_url": "https://example.com/images/paan_peta.jpg"
+      },
+      {
+        "name": "MANGO PETA",
+        "description": "A mango-flavored sweet with a smooth texture.",
+        "image_url": "https://example.com/images/mango_peta.jpg"
+      },
+      {
+        "name": "ORANGE PETA",
+        "description": "A sweet made with a tangy orange flavor.",
+        "image_url": "https://example.com/images/orange_peta.jpg"
+      },
+      {
+        "name": "STRAWBERRY PAAN",
+        "description": "A combination of sweet paan and strawberry flavor.",
+        "image_url": "https://example.com/images/strawberry_paan.jpg"
+      },
+      {
+        "name": "AGRA PETA",
+        "description": "A traditional sweet made with sugar syrup and fruit flavors.",
+        "image_url": "https://example.com/images/agra_peta.jpg"
+      },
+      {
+        "name": "KALLAM PETA",
+        "description": "A variant of Peta with a rich, creamy texture.",
+        "image_url": "https://example.com/images/kallam_peta.jpg"
+      }
+    ],
+    "HOT_HALWA_SWEETS": [
+      {
+        "name": "CARROT HALWA",
+        "description": "A popular Indian dessert made from grated carrots, milk, and sugar.",
+        "image_url": "https://example.com/images/carrot_halwa.jpg"
+      },
+      {
+        "name": "GAAJAR HALWA",
+        "description": "A rich and flavorful sweet dish made from carrots, milk, and sugar.",
+        "image_url": "https://example.com/images/gaajar_halwa.jpg"
+      },
+      {
+        "name": "KADDU HALWA",
+        "description": "A sweet made with grated pumpkin cooked with milk and sugar.",
+        "image_url": "https://example.com/images/kaddu_halwa.jpg"
+      },
+      {
+        "name": "MOONGDAL HALWA",
+        "description": "A halwa made with moong dal, milk, and sugar.",
+        "image_url": "https://example.com/images/moongdal_halwa.jpg"
+      },
+      {
+        "name": "BADAM HALWA",
+        "description": "A rich and creamy dessert made with ground almonds.",
+        "image_url": "https://example.com/images/badam_halwa.jpg"
+      }
+    ],
+    "KAJU_ITEMS": [
+      {
+        "name": "KAJU KATHLI",
+        "description": "Cashew nut-based sweet shaped like a diamond.",
+        "image_url": "https://example.com/images/kaju_kathli.jpg"
+      },
+      {
+        "name": "KAJU SURAI",
+        "description": "Cashew nut sweet made in a cylindrical shape.",
+        "image_url": "https://example.com/images/kaju_surai.jpg"
+      },
+      {
+        "name": "KAJU SAMOSA",
+        "description": "Cashew-filled samosa-style pastry.",
+        "image_url": "https://example.com/images/kaju_samosa.jpg"
+      },
+      {
+        "name": "KAJU ANJEER ROLL",
+        "description": "A cashew and fig roll dessert.",
+        "image_url": "https://example.com/images/kaju_anjeer_roll.jpg"
+      },
+      {
+        "name": "KAJU PISTA ROLL",
+        "description": "A cashew and pistachio roll sweet.",
+        "image_url": "https://example.com/images/kaju_pista_roll.jpg"
+      }
+    ],
+    "CHAAT ITEMS":[
+       {
+        "itemname": "PAANI POORI",
+        "description": "A popular street food consisting of crispy puris filled with spicy, tangy water, potatoes, and chickpeas.",
+        "image_url": ""
+      },
+      {
+        "itemname": "RAWWA PAANI POORI",
+        "description": "A variation of paani poori made with semolina-based puris, served with flavorful tangy water and stuffing.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BHEL POORI",
+        "description": "A savory snack made with puffed rice, sev, chopped vegetables, and a mix of chutneys.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SEV POORI",
+        "description": "Crispy puris topped with tangy chutneys, sev, potatoes, and onions.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DAHI POORI",
+        "description": "Puris stuffed with yogurt, sweet and spicy chutneys, and a sprinkle of sev.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CUTLET",
+        "description": "A crispy, deep-fried snack made with spiced potatoes, vegetables, or meat, often served with chutney.",
+        "image_url": ""
+      },
+      {
+        "itemname": "RAGADA CUTLET",
+        "description": "A cutlet served with ragda (a spiced white peas curry), garnished with onions and chutneys.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SAMOSA CUTLET",
+        "description": "A fusion of samosas and cutlets, crispy on the outside with a spicy potato filling.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PANNEER CUTLET",
+        "description": "Crispy fried cutlets made with spiced paneer (Indian cottage cheese), often served with chutney.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG CUTLET",
+        "description": "A vegetarian version of the cutlet made with mixed vegetables and spices, deep-fried for a crispy exterior.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PAAV BHAJI",
+        "description": "A mashed vegetable curry served with buttered pav (bread rolls), a popular Mumbai street food.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DAHI PAPDI",
+        "description": "Crispy papdis (crackers) topped with yogurt, chutneys, and a mix of spices, a tangy snack.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DAHI SEV POORI",
+        "description": "A combination of sev poori and yogurt, creating a perfect balance of sweet, salty, and tangy flavors.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DAHI WADA",
+        "description": "Soft fried dough balls soaked in yogurt and topped with spices and chutneys.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DAHI PAKODA",
+        "description": "Fried lentil dumplings soaked in yogurt, garnished with spices, offering a tangy taste.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DAHI KACHORI",
+        "description": "A kachori (fried pastry) stuffed with yogurt and chutneys, a popular variation of dahi vada.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DAHI KOMCHA",
+        "description": "A unique dish where yogurt is served with a blend of spices and deep-fried snacks.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MALAI DAHI WADA",
+        "description": "A rich variation of dahi wada, where the fried vadas are soaked in cream-based yogurt.",
+        "image_url": ""
+      },
+      {
+        "itemname": "LACHCHA TOKARI",
+        "description": "Crispy fried dough shaped into a nest, filled with potatoes and drizzled with tangy chutneys.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ALU TOAST",
+        "description": "Sliced bread topped with mashed spiced potatoes and shallow fried for a crispy texture.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ANGURI DAHI WADA",
+        "description": "Miniature dahi wadas, soaked in yogurt and served with spicy chutneys.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PLAIN SAMOSA",
+        "description": "A deep-fried triangular pastry filled with spiced potatoes, peas, and sometimes meat.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BABY CORN PASINDA",
+        "description": "Baby corn pieces cooked with spices and served as a delicious chaat.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PANNEER STICK",
+        "description": "Fried sticks made from spiced paneer, often served with chutney.",
+        "image_url": ""
+      },
+      {
+        "itemname": "FRIED ICE CREAM",
+        "description": "A scoop of ice cream coated in a crispy shell and deep-fried, served hot and cold.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PANNEER TIKKA",
+        "description": "Marinated paneer chunks grilled to perfection, served with mint chutney.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TAWWA FRUIT CHAAT",
+        "description": "A refreshing fruit chaat served with spices and lemon juice, usually prepared on a griddle (tawwa).",
+        "image_url": ""
+      },
+      {
+        "itemname": "TAWWA ALU CHAAT",
+        "description": "Spicy, roasted potatoes served with chutneys and garnished with herbs, prepared on a griddle.",
+        "image_url": ""
+      },
+      {
+        "itemname": "KUR KURE CHAAT",
+        "description": "A crunchy and spicy chaat made with fried noodles, sev, and flavored chutneys.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CORN SAMOSA",
+        "description": "Samosas filled with spiced corn kernels, deep-fried for a crispy finish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "KACHORI CHAAT",
+        "description": "A variation of kachori filled with spiced chutneys, yogurt, and toppings, creating a savory chaat.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SWEET CORN BHEL",
+        "description": "Bhel poori served with sweet corn, mixed with chutneys and spices for a unique twist.",
+        "image_url": ""
+      },
+      {
+        "itemname": "GOLD COIN",
+        "description": "Crispy golden fried snack shaped like coins, filled with spiced vegetables or paneer.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ALU TIKKA",
+        "description": "Deep-fried spiced potato patties, often served with chutney and yogurt.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DHOKLA",
+        "description": "A soft, steamed, spongy snack made from rice and chickpea flour, served with chutney.",
+        "image_url": ""
+      },
+      {
+        "itemname": "KHANDVI",
+        "description": "A savory Gujarati snack made from gram flour and yogurt, rolled into thin, spiced rolls.",
+        "image_url": ""
+      },
+      {
+        "itemname": "HARA BHARAKABAB",
+        "description": "A vegetarian kebab made with greens like spinach and spices, fried to a crispy texture.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG KABAB",
+        "description": "A spiced mixture of vegetables, formed into patties and grilled or fried.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BISCUIT GOLD COIN",
+        "description": "Crispy biscuits shaped like coins, often stuffed with spiced fillings and served as a snack.",
+        "image_url": ""
+      }
+    
+    ],
+     "SNACKS": [
+      {
+        "itemname": "MIRCHI BAJJI",
+        "description": "A spicy snack made with large green chilies stuffed with a tangy filling, dipped in gram flour batter, and deep-fried.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CUT MIRCHI",
+        "description": "Chili peppers cut into pieces, coated in a spiced batter, and deep-fried to crispy perfection.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ALU BAJJI",
+        "description": "Sliced potatoes dipped in a seasoned gram flour batter and deep-fried until crispy, served as a popular snack.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ALU BONDA",
+        "description": "A deep-fried snack made with spiced mashed potatoes rolled into a ball and coated with chickpea flour batter.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MASALA WADA",
+        "description": "Spiced fritters made with lentils, onions, and herbs, deep-fried into crispy patties.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG BULLET",
+        "description": "A crunchy, deep-fried snack made from mashed vegetables, rolled into balls, and served with chutneys.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CRISPY VEG",
+        "description": "A mix of vegetables coated in seasoned batter and deep-fried for a crispy and crunchy texture.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CAPSI RINGS",
+        "description": "Sliced capsicum (bell pepper) rings dipped in batter and fried until crispy, often served with a tangy dip.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ONION RINGS",
+        "description": "Onion slices coated in a crispy batter and deep-fried to create a crunchy, savory snack.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BOONDI",
+        "description": "Tiny fried balls made from chickpea flour, often used in snacks or as a topping for salads and yogurt.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MIXTURE",
+        "description": "A crunchy, savory mix of fried ingredients such as nuts, sev, and chickpea flour, often flavored with spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "NAVRATAN MIXTURE",
+        "description": "A special mixture of fried nuts, seeds, and crispy sev, mixed with spices to create a crunchy and flavorful snack.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ALU KADI",
+        "description": "Potato slices cooked in a tangy, spicy yogurt-based gravy, typically served as a side or snack.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ARATI KAAY BAJJI",
+        "description": "A regional snack made from a particular type of green pepper, stuffed with spices and fried in a crispy batter.",
+        "image_url": ""
+      },
+      {
+        "itemname": "GOBI PAKODA",
+        "description": "Cauliflower florets coated in seasoned gram flour batter and deep-fried until golden and crispy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ONION PAKODA",
+        "description": "A savory, deep-fried snack made with thinly sliced onions, chickpea flour, and spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CORN BULLET",
+        "description": "Deep-fried snack made with corn kernels mixed with spices and coated in a crispy batter.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PAAN BAJJI",
+        "description": "A flavorful, spicy snack made with a whole betel leaf stuffed with a tangy filling and deep-fried.",
+        "image_url": ""
+      },
+        {
+        "itemname": "GOLD COIN",
+        "description": "A round, deep-fried snack made from a mix of mashed vegetables and spices, shaped into coins, and served with chutney.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG BULLET",
+        "description": "A crunchy, deep-fried snack made from mashed vegetables, rolled into balls, and served with chutneys.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PANNEER MAJESTICK",
+        "description": "Paneer cubes marinated with spices, breaded, and deep-fried until crispy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG BAR-B-Q",
+        "description": "Grilled vegetables marinated in a smoky barbecue sauce, served as skewers.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CAPSI RINGS",
+        "description": "Sliced capsicum (bell pepper) rings dipped in batter and fried until crispy, often served with a tangy dip.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ONION RINGS",
+        "description": "Onion slices coated in a crispy batter and deep-fried to create a crunchy, savory snack.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SPRING ROLL",
+        "description": "Crispy, thin wrappers filled with a mixture of vegetables or meat, then deep-fried.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DRAGON ROLL",
+        "description": "A fusion snack with a crispy roll filled with spicy vegetables or meat, often drizzled with sauces.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CORN CHEESE ROLL",
+        "description": "A soft roll stuffed with corn and cheese, then deep-fried to crispy perfection.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG WANTON",
+        "description": "A deep-fried dumpling filled with spiced vegetables, often served with a dipping sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "HARA BHARA KABAB",
+        "description": "Vegetable kababs made from a mix of spinach, peas, and spices, shaped into patties and grilled.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG CUTLET",
+        "description": "Crispy fried patties made with mashed vegetables and spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG BREAD ROLL",
+        "description": "Bread rolls stuffed with a spicy vegetable filling and deep-fried until golden and crispy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CHEESE SPINACH ROLL",
+        "description": "A roll stuffed with spinach and melted cheese, then fried to crispy perfection.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PANNER CHEESE BALLS",
+        "description": "Fried cheese balls made from paneer and spices, served as a savory snack.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG MUN MUN",
+        "description": "Small vegetable dumplings deep-fried to perfection and served with a tangy chutney.",
+        "image_url": ""
+      },
+      {
+        "itemname": "GOBI MANCHURIA (WET/DRY)",
+        "description": "Cauliflower florets cooked in a spicy, tangy sauce for a fusion Indo-Chinese flavor, available in wet or dry versions.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TREATH PANNEER",
+        "description": "Spiced paneer cubes cooked in a tangy sauce and served as a hot, flavorful snack.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BABY CORN MANCHURIA",
+        "description": "Deep-fried baby corn pieces cooked in a tangy, spicy Manchurian sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "KOTHIMEER KALI",
+        "description": "Spicy, deep-fried fritters made from coriander leaves, chickpea flour, and spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BABY CORN CHILLI",
+        "description": "Fried baby corn pieces stir-fried in a spicy chili sauce with vegetables.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG ZINGARO",
+        "description": "A crispy and spicy deep-fried roll made with seasoned vegetables and served with chutney.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CHILLI GARLIC POTATO",
+        "description": "Crispy fried potatoes tossed in a spicy garlic-chili sauce for a savory and bold flavor.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SWEET CORN BALL",
+        "description": "Crispy deep-fried balls made from sweet corn and spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG BALL IN SEZWAAN SAUCE",
+        "description": "Vegetable balls cooked in a tangy, spicy Szechuan sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG THIRANGA",
+        "description": "A colorful snack with layers of spiced vegetables, fried to crispy perfection.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG GARLIC",
+        "description": "Vegetables fried in a garlicky sauce, creating a savory and spicy snack.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BABY CORN SAATHE",
+        "description": "A popular Indian snack made by deep-frying baby corn pieces, served with a spicy sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SIZZLERS",
+        "description": "Grilled vegetables or paneer served on a sizzling platter with a variety of sauces.",
+        "image_url": ""
+      },
+      {
+        "itemname": "GOLDEN FRIED BABY CORN",
+        "description": "Baby corn deep-fried in a golden, crispy batter and served as a crunchy snack.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG-65",
+        "description": "Spicy deep-fried vegetable fritters, often served with a tangy sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG ONCE MORE",
+        "description": "A fried vegetable snack served with a special dip.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BABY CORN-65",
+        "description": "A spicy, crispy baby corn snack, deep-fried with aromatic spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "FRENCH FRYS",
+        "description": "Crispy fried potato strips, served as a classic snack or side dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG LOLLYPOP",
+        "description": "Vegetables coated in a spicy batter and shaped like lollipops, then deep-fried.",
+        "image_url": ""
+      },
+      {
+        "itemname": "GRILL SANDWICH",
+        "description": "Grilled bread filled with vegetables, cheese, and spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CAULIFLOWER LOLLYPOP",
+        "description": "Cauliflower florets coated in a spicy batter and fried to crispy perfection.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SANDWICH",
+        "description": "A simple, hearty sandwich made with bread, vegetables, and sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TAWWA VEG",
+        "description": "Grilled vegetables cooked on a tawwa, often served with bread.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG HOT DOGS",
+        "description": "A vegetarian version of hot dogs, served with fillings like paneer or vegetables.",
+        "image_url": ""
+      }
+    ],
+     "soups": [
+      {
+        "itemname": "MANCHOW SOUP",
+        "description": "A spicy and tangy Chinese soup made with finely chopped vegetables and noodles.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TOMATO SOUP",
+        "description": "A smooth, creamy soup made with ripe tomatoes, herbs, and spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SWEET CORN SOUP",
+        "description": "A flavorful soup made with corn kernels, vegetables, and a savory broth.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG CLEAR SOUP",
+        "description": "A light and healthy vegetable soup made with clear broth and mixed vegetables.",
+        "image_url": ""
+      },
+      {
+        "itemname": "HOT & SOUR SOUP",
+        "description": "A spicy and tangy soup made with a combination of vegetables, vinegar, and soy sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG CREAM SOUP",
+        "description": "A rich and creamy soup made with mixed vegetables, cream, and a mild seasoning.",
+        "image_url": ""
+      },
+      {
+        "itemname": "THAI NOODLE SOUP",
+        "description": "A Thai-inspired soup with noodles, vegetables, and a spicy coconut broth.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CREAM OF MUSHROOM",
+        "description": "A creamy soup made with mushrooms, herbs, and a blend of spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MACRONI VEG SOUP",
+        "description": "A soup made with macaroni, mixed vegetables, and a savory broth.",
+        "image_url": ""
+      },
+      {
+        "itemname": "LEMON CORIANDER SOUP",
+        "description": "A light, tangy soup made with lemon, coriander, and a blend of aromatic spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "POTATO SOUP",
+        "description": "A hearty soup made with potatoes, cream, and savory seasonings.",
+        "image_url": ""
+      }
+    ],
+    "rices": [
+      {
+        "itemname": "VEG FRIED RICE",
+        "description": "A popular Chinese dish made with stir-fried rice, vegetables, and soy sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG SEZWAAN RICE",
+        "description": "A spicy and flavorful rice dish made with vegetables and a tangy Szechuan sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG TRIPLE RICE",
+        "description": "A unique rice dish made by combining three varieties of rice with mixed vegetables.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG SINGAPORE RICE",
+        "description": "A flavorful rice dish with a combination of vegetables and aromatic spices, inspired by Singaporean cuisine.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SEVEN JEWEL RICE",
+        "description": "A colorful and flavorful rice dish made with seven types of vegetables, spices, and garnishes.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG GARLIC RICE",
+        "description": "Stir-fried rice with garlic, mixed vegetables, and a subtle seasoning.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BAMBOO RICE",
+        "description": "A fragrant rice dish cooked with bamboo shoots and a mix of aromatic herbs.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG CHOPPER RICE",
+        "description": "A stir-fried rice dish with a combination of vegetables and a special blend of spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MONGOLIAN RICE",
+        "description": "A rice dish with Mongolian flavors, featuring stir-fried vegetables and a savory sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MEXICAN RICE",
+        "description": "A flavorful rice dish made with vegetables, beans, and spices inspired by Mexican cuisine.",
+        "image_url": ""
+      }
+    ],
+     "noodles": [
+      {
+        "itemname": "VEG SOFT NOODLES",
+        "description": "A soft and tender noodle dish made with vegetables and a light soy-based sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG SEZWAN NOODLES",
+        "description": "A spicy noodle dish made with vegetables and a tangy Szechuan sauce, offering a bold and flavorful taste.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG TRIPLE NOODLES",
+        "description": "A unique noodle dish made by combining three different types of noodles with mixed vegetables.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG CHOOPPER NOODLES",
+        "description": "A stir-fried noodle dish with a mix of vegetables, offering a delightful crunch and savory flavors.",
+        "image_url": ""
+      },
+      {
+        "itemname": "THAI NOODLES",
+        "description": "A Thai-inspired noodle dish made with fresh vegetables, spices, and a fragrant coconut or peanut sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG CHOW CHOW NOODLES",
+        "description": "A flavorful noodle dish featuring stir-fried vegetables and a combination of spices, often served with a tangy sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "HAKKA NOODLES",
+        "description": "A popular Indo-Chinese dish made with stir-fried noodles, vegetables, and soy sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "HONEY NOODLES",
+        "description": "A sweet and savory noodle dish drizzled with honey, vegetables, and a light seasoning.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MANCHURIAN NOODLES",
+        "description": "A delicious Indo-Chinese noodle dish with crispy Manchurian balls and a savory, slightly spicy sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SINGAPOORI NOODLES",
+        "description": "A flavorful noodle dish made with vegetables, spices, and a hint of tangy Singaporean flavors.",
+        "image_url": ""
+      }
+    ],
+    "italian": [
+      {
+        "itemname": "PAASTA",
+        "description": "Classic Italian pasta served with a choice of sauce, offering a comforting and satisfying flavor.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MIX PAASTA WITH VEG SAUCE",
+        "description": "Pasta mixed with a savory and flavorful vegetable sauce, creating a perfect combination of taste and texture.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MIX PAASTA WITH CHEESE MUSHROOM",
+        "description": "Pasta served with a rich cheese sauce and sautéed mushrooms, offering a creamy and savory experience.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MIX PAASTA WITH ARIBA ATTA",
+        "description": "Pasta mixed with a special Ariba Atta sauce, blending unique spices for an exciting and flavorful dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "GREEN PAASTA",
+        "description": "A vibrant pasta dish prepared with spinach or other green vegetables, adding a fresh and nutritious twist.",
+        "image_url": ""
+      },
+      {
+        "itemname": "LAZZANIA",
+        "description": "Layers of pasta, cheese, and rich tomato sauce baked to perfection, offering a hearty and satisfying meal.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG BURGER",
+        "description": "A delicious vegetarian burger made with a veggie patty, served with fresh vegetables and a soft bun.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG PIZZA",
+        "description": "A flavorful pizza topped with fresh vegetables, mozzarella cheese, and a delicious tomato sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "GARLIC BREAD",
+        "description": "Crispy bread slices brushed with garlic butter, offering a perfect side to Italian meals.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG FRANKEY",
+        "description": "A tasty wrap made with a vegetarian filling of sautéed vegetables, rolled in a soft flatbread.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ROASTY POTATO",
+        "description": "Potatoes roasted with herbs and spices, offering a crispy exterior and soft, flavorful interior.",
+        "image_url": ""
+      }
+    ],
+     "currys_and_common": [
+      {
+        "itemname": "PANNEER BUTTER MASALA",
+        "description": "Soft paneer cubes cooked in a creamy tomato-based sauce, flavored with butter and spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "KAJU PANNEER",
+        "description": "Paneer cooked with cashews in a rich and flavorful gravy made with ground nuts and spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CHANA PANNEER",
+        "description": "Chickpeas and paneer cooked together in a spicy curry with a blend of aromatic spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MUTTER ANNEER",
+        "description": "Paneer and green peas cooked in a mildly spiced, creamy curry.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CAPSICUM PANNEER",
+        "description": "Paneer cooked with bell peppers in a tangy and spicy curry.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BABYCORN PANNEER",
+        "description": "Paneer and baby corn cooked in a deliciously spicy and creamy gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PALAK PANNEER",
+        "description": "Paneer cubes cooked in a smooth spinach gravy, offering a rich and healthy curry.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SHAAHI PANNEER",
+        "description": "A royal curry made with paneer, cream, and a blend of rich spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PANNEER KOFTA",
+        "description": "Delicious deep-fried paneer balls served in a rich, flavorful gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "GINGER PANNEER",
+        "description": "Paneer cooked in a spicy ginger-infused curry sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PANNEER MAKHANI",
+        "description": "Paneer cooked in a smooth, buttery tomato gravy, rich in flavors.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DRY FRUIT PANNEER",
+        "description": "Paneer cooked in a sweet and rich curry with a variety of dry fruits.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PANNEER KHOYA",
+        "description": "Paneer cooked in a creamy sauce with reduced milk and nuts.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TOMATO CAPSI PANNEER",
+        "description": "Paneer cooked with bell peppers and tomatoes, creating a tangy and spicy dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "KHEEMA PANNEER",
+        "description": "Paneer cooked with minced vegetables or meat substitute, offering a hearty and flavorful curry.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MUGHAL PALAK PANNEER",
+        "description": "A Mughlai-style curry with paneer and spinach, cooked in a rich, aromatic gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PANNEER CHAT PAT",
+        "description": "A tangy and spicy dish with fried paneer, garnished with fresh herbs and spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PANNEER DO PYAZA",
+        "description": "Paneer cooked with onions in a spicy curry sauce, creating a flavorful dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PANNEER TIKKA MASALA",
+        "description": "Grilled paneer pieces cooked in a spicy and creamy tomato-based sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MOONG KOFTA CURRY",
+        "description": "Delicious moong dal koftas served in a flavorful curry gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MALAI METHI PANNEER",
+        "description": "Paneer cooked in a creamy fenugreek sauce with mild spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG JAI PURI",
+        "description": "A traditional curry made with mixed vegetables in a rich and spiced gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ALU CHOLE",
+        "description": "A classic North Indian dish of potatoes and chickpeas cooked in a spicy, flavorful curry.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MIX VEG CURRY",
+        "description": "A curry made with a variety of vegetables in a rich and aromatic gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TOMATO MASALA",
+        "description": "A tangy and spicy curry made primarily with tomatoes, flavored with various spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG KOLHAPURI",
+        "description": "A spicy and flavorful curry made with a mix of vegetables and Kolhapuri spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "STUFFED TOMATO",
+        "description": "Tomatoes stuffed with a mix of vegetables, spices, and herbs, cooked in a flavorful gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CHOLE PALAK",
+        "description": "Chickpeas cooked with spinach in a savory curry sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "GREEN PIECE MASALA",
+        "description": "Green peas cooked in a spicy, aromatic masala gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CHOLE MASALA",
+        "description": "A North Indian dish made with chickpeas cooked in a rich, spicy tomato-based gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "GINGER ALU",
+        "description": "Potatoes cooked in a spicy ginger-infused curry sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "KAJU MASALA MUTTER",
+        "description": "Cashews and peas cooked in a rich, spicy gravy with an aromatic blend of spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TAWWA SABJI",
+        "description": "A special mixed vegetable curry cooked on a tawa with various spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SUBJI MAKHAN WALA",
+        "description": "A mixed vegetable curry cooked in a rich and buttery gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG SHAHI KOORMA",
+        "description": "A royal curry made with mixed vegetables, nuts, and cream.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CHAT PATE ALU",
+        "description": "Spicy and tangy potatoes served with fresh herbs and seasoning.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MALAI METHI CHAMAN",
+        "description": "Paneer cooked with fenugreek in a creamy, mildly spiced gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "AVIAL",
+        "description": "A South Indian dish made with mixed vegetables in a coconut-based curry.",
+        "image_url": ""
+      },
+      {
+        "itemname": "RAAJMA MASALA",
+        "description": "Kidney beans cooked in a rich, spicy tomato-based gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ALU TOMATO CABBAGE",
+        "description": "A flavorful curry made with potatoes, tomatoes, and cabbage.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MUSHROOM MASALA",
+        "description": "Mushrooms cooked in a spicy, rich masala gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MIRCHI KA SAALAN",
+        "description": "Spicy and tangy green chili curry cooked in a rich, aromatic gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "JEERA ALU",
+        "description": "Potatoes cooked with cumin seeds and mild spices, offering a simple yet delicious dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG RASGULLA CURRY",
+        "description": "A unique curry made with soft vegetable dumplings cooked in a sweet-spicy gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CARROT GOBI ALU",
+        "description": "A curry made with carrots, cauliflower, and potatoes in a flavorful masala gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CARROT BEENS",
+        "description": "Carrots and beans cooked in a mildly spiced curry sauce.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CABBAGE COCONUT",
+        "description": "A South Indian-style curry made with cabbage and coconut, flavored with mustard seeds.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TOMATO CHIKKUDU",
+        "description": "A tangy tomato curry cooked with ridge gourd, spiced perfectly.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DONDAKAYA CURRY",
+        "description": "A flavorful curry made with tindora (ivy gourd) and various spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DONDAKAYA PACHICHI KOBBARY",
+        "description": "Tindora curry made with fresh coconut and spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DOSAKAYA CURRY",
+        "description": "A curry made with yellow cucumber cooked in a spicy gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TOMATO MUNAGA",
+        "description": "Tomatoes cooked with moringa leaves in a spicy, tangy curry.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SORAKAYA CURRY",
+        "description": "Bottle gourd cooked in a flavorful curry with various spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BENDI COCONUT",
+        "description": "Ladyfinger (okra) cooked in a coconut-based gravy.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TOMATO CABBAGE",
+        "description": "A simple and flavorful curry made with tomatoes and cabbage.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TOMATO CAULIFLOWER",
+        "description": "A curry made with tomatoes and cauliflower, flavored with Indian spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CABBAGE ALU BEETROOT",
+        "description": "A mixed vegetable curry made with cabbage, potatoes, and beetroot.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TOMATO CARROT",
+        "description": "Tomatoes and carrots cooked in a tangy, mildly spiced curry.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BEETROOT CURRY",
+        "description": "A curry made with beetroot in a flavorful, spiced gravy.",
+        "image_url": ""
+      }
+    ],
+    "fry_currys": [
+      {
+        "itemname": "CARROT",
+        "description": "Carrots sautéed with spices to create a flavorful, slightly crispy dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BEETROOT",
+        "description": "Beetroot cooked with spices, offering a sweet and earthy flavor.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ALU",
+        "description": "Potatoes stir-fried with spices to create a crispy and flavorful dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BENDI",
+        "description": "Ladyfinger (okra) sautéed with spices for a crunchy, flavorful dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DONDA",
+        "description": "Tindora (ivy gourd) stir-fried with spices to bring out its unique flavor.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MULLANGI",
+        "description": "Radish stir-fried with spices, creating a crisp and spicy dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MIX VEG",
+        "description": "A mix of vegetables stir-fried with spices to create a flavorful medley.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ALU CARROT",
+        "description": "Potatoes and carrots stir-fried together in a mildly spiced curry.",
+        "image_url": ""
+      },
+      {
+        "itemname": "GOBI ALU CHANAGA",
+        "description": "Cauliflower, potatoes, and chickpeas stir-fried with aromatic spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CABBAGE ALU CARROT",
+        "description": "Cabbage, potatoes, and carrots stir-fried together with spices for a hearty dish.",
+        "image_url": ""
+      }
+    ],
+    "dalls": [
+      {
+        "itemname": "PALAK",
+        "description": "Spinach cooked with spices to create a smooth, flavorful lentil dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "THOTA",
+        "description": "A traditional lentil preparation made with spices and vegetables, delivering a comforting dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TOMATO",
+        "description": "Lentils cooked with tangy tomatoes and aromatic spices, creating a hearty dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MANGO",
+        "description": "Lentils cooked with ripe mangoes for a sweet and savory combination.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DOSAKAYA",
+        "description": "Lentils cooked with dosakaya (yellow cucumber) and spices, offering a refreshing taste.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DALL MAKHANI",
+        "description": "Creamy lentils cooked with butter, tomatoes, and a blend of spices for a rich flavor.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DALL FRY",
+        "description": "Fried lentils with a combination of spices, creating a crispy and savory dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PALAK TOMATO",
+        "description": "Spinach and tomatoes cooked together with spices, offering a delicious and nutritious dish.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PALAK MANGO",
+        "description": "A fusion of spinach and mango in a spiced lentil base, offering a unique and flavorful experience.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DOSA TOMATO",
+        "description": "Tomato-flavored dosa batter cooked with spices, served as a crispy, tangy treat.",
+        "image_url": ""
+      }
+    ],
+     "common_regular": [
+      {
+        "itemname": "SAMBAR",
+        "description": "A popular South Indian lentil-based curry with vegetables and tamarind, seasoned with mustard seeds and curry leaves.",
+        "image_url": ""
+      },
+      {
+        "itemname": "RASAM",
+        "description": "A tangy and spicy South Indian soup made from tamarind, tomatoes, and a variety of spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "KADI PAKODA",
+        "description": "A North Indian dish made with fried gram flour dumplings in a yogurt-based curry flavored with spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MAJJIGA PULUSU",
+        "description": "A traditional South Indian yogurt-based curry with a tangy flavor, made with spices and vegetables.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MIRIYALA CHAARU",
+        "description": "A spicy, pepper-flavored soup often enjoyed as a remedy for cold or to accompany a meal.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CURD",
+        "description": "Chilled, fresh yogurt often served as a side dish or base for various Indian preparations.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CURD RAITHA",
+        "description": "A yogurt-based side dish mixed with vegetables or fruits and seasoned with spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "ONION RAITHA",
+        "description": "A refreshing yogurt dish with finely chopped onions, seasoned with cumin and other spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BOONDI RAITHA",
+        "description": "A cooling yogurt-based dish with crispy boondi (fried chickpea flour balls) and mild spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CUCUMBER RAITHA",
+        "description": "A cooling yogurt side dish with grated cucumber and a touch of spices, perfect for hot weather.",
+        "image_url": ""
+      },
+      {
+        "itemname": "FRUIT RAITHA",
+        "description": "A sweet and tangy yogurt dish with assorted fruits mixed with mild spices for added flavor.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SALADS",
+        "description": "Freshly prepared salads using a variety of vegetables and fruits, often dressed with light seasonings.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SPROUTS",
+        "description": "A healthy dish made with sprouted lentils or beans, often mixed with vegetables and seasoned with spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PAPAD, FRYMES",
+        "description": "Crispy papad and fried snacks that complement any meal, offering a crunchy and flavorful experience.",
+        "image_url": ""
+      }
+    ],
+     "rice_items": [
+      {
+        "itemname": "WHITE RICE",
+        "description": "Steamed white rice, a staple in many cuisines, served as a base for various curries and dishes.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG BIRIYANI",
+        "description": "A flavorful rice dish made with basmati rice, mixed vegetables, and aromatic spices, often served with raita.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DUM BIRIYANI",
+        "description": "A slow-cooked rice dish made with marinated meat or vegetables, layered with fragrant rice and cooked on low heat.",
+        "image_url": ""
+      },
+      {
+        "itemname": "JEERA RICE",
+        "description": "Steamed rice flavored with cumin seeds, a simple yet flavorful side dish that pairs well with curries.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VEG FRIED RICE",
+        "description": "A popular stir-fried rice dish made with mixed vegetables, soy sauce, and aromatic spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PUDEEENA RICE",
+        "description": "A fragrant rice dish flavored with mint leaves, often served with a variety of side dishes.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BISIBELI BAATH",
+        "description": "A South Indian dish made with rice, lentils, vegetables, and a special spice mix, typically served with a side of papad.",
+        "image_url": ""
+      },
+      {
+        "itemname": "VANGI BAATH",
+        "description": "A flavorful rice dish from South India made with brinjal (eggplant) and a unique spice blend.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SAMBAR RICE",
+        "description": "A tangy and spicy rice dish made by mixing steamed rice with sambar (lentil stew) and vegetables.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PULIHORA",
+        "description": "A tangy rice dish from South India made with tamarind, spices, and curry leaves.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TOMATO RICE",
+        "description": "A fragrant rice dish made with tomatoes, spices, and herbs, often served as a standalone meal.",
+        "image_url": ""
+      },
+      {
+        "itemname": "KOFTA BIRIYANI",
+        "description": "A rich and flavorful biryani made with spiced koftas (fried vegetable or meat balls), layered with aromatic rice.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CURD RICE",
+        "description": "A simple and soothing rice dish made by mixing cooked rice with curd (yogurt), often garnished with mustard seeds and curry leaves.",
+        "image_url": ""
+      }
+    ],
+     "pickles": [
+      {
+        "itemname": "GONGURA",
+        "description": "A tangy and spicy pickle made from Gongura (sorrel leaves), commonly used in South Indian cuisine.",
+        "image_url": ""
+      },
+      {
+        "itemname": "SEASONAL",
+        "description": "A variety of pickles made from seasonal fruits or vegetables, capturing the flavors of the harvest.",
+        "image_url": ""
+      },
+      {
+        "itemname": "LEMON",
+        "description": "A tangy and sour pickle made with lemon, typically flavored with mustard seeds, turmeric, and chili powder.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MANGO",
+        "description": "A popular Indian pickle made from raw mangoes, spiced with mustard, fenugreek, and chili.",
+        "image_url": ""
+      },
+      {
+        "itemname": "TOMATO",
+        "description": "A savory pickle made from ripe tomatoes and spices, offering a tangy and mildly spicy flavor.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CABBAGE",
+        "description": "A crunchy and spicy pickle made from cabbage, often paired with mustard and other aromatic spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "DOSAKAYA",
+        "description": "A refreshing and tangy pickle made from dosakaya (yellow cucumber), seasoned with mustard, chili powder, and garlic.",
+        "image_url": ""
+      },
+      {
+        "itemname": "CAULIFLOWER",
+        "description": "A spicy and tangy pickle made with cauliflower florets, seasoned with mustard seeds and other spices.",
+        "image_url": ""
+      },
+      {
+        "itemname": "AND POWDERS",
+        "description": "Various spice powders that accompany pickles, such as chili powder, mustard powder, and other special blends used to enhance flavor.",
+        "image_url": ""
+      }
+    ],
+    "indian_breads": [
+      {
+        "itemname": "ROTI",
+        "description": "A simple, unleavened flatbread made from whole wheat flour, commonly served with curries and vegetables.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BUTTER ROTI",
+        "description": "A variation of roti brushed with a generous amount of butter, adding a rich and soft texture.",
+        "image_url": ""
+      },
+      {
+        "itemname": "POORI",
+        "description": "A deep-fried, puffed bread made from wheat flour, often served with curries or chole (chickpeas).",
+        "image_url": ""
+      },
+      {
+        "itemname": "RUMALI ROTI",
+        "description": "A thin, soft and large roti, usually folded and served with kebabs or curries.",
+        "image_url": ""
+      },
+      {
+        "itemname": "NAAN",
+        "description": "A soft, leavened flatbread traditionally baked in a tandoor, often served with rich gravies.",
+        "image_url": ""
+      },
+      {
+        "itemname": "BUTTER NAAN",
+        "description": "A naan bread topped with butter, giving it a rich and soft texture, popular in Indian restaurants.",
+        "image_url": ""
+      },
+      {
+        "itemname": "MASALA KULCHA",
+        "description": "A stuffed naan-like bread filled with spices, herbs, and sometimes vegetables, often served with chickpea curry.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PARATA",
+        "description": "A flaky, layered flatbread made from whole wheat flour, typically served with yogurt or curry.",
+        "image_url": ""
+      },
+      {
+        "itemname": "LACHCHA PARATA",
+        "description": "A multi-layered, flaky paratha made by rolling dough into concentric circles and pan-frying it.",
+        "image_url": ""
+      },
+      {
+        "itemname": "JAWARI ROTI",
+        "description": "A gluten-free roti made from sorghum flour, often served with traditional Indian curries.",
+        "image_url": ""
+      },
+      {
+        "itemname": "KOTHMIR NAAN",
+        "description": "A variation of naan infused with fresh coriander (kothmir), offering a fragrant, herby flavor.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PALAK POORI",
+        "description": "A vibrant green, deep-fried bread made from spinach and wheat flour, typically served with curry or raita.",
+        "image_url": ""
+      },
+      {
+        "itemname": "AJWAN POORI",
+        "description": "A poori flavored with ajwain (carom seeds), offering a distinct taste and digestive benefits.",
+        "image_url": ""
+      },
+      {
+        "itemname": "PUDEENA POORI",
+        "description": "A poori flavored with fresh mint (pudina), adding a refreshing taste to the traditional poori.",
+        "image_url": ""
+      },
+      {
+        "itemname": "JEERA POORI",
+        "description": "A poori seasoned with cumin seeds (jeera), giving it a warm, earthy flavor.",
+        "image_url": ""
+      },
+      {
+        "itemname": "METHI PARATA",
+        "description": "A paratha made with fenugreek leaves (methi), offering a slightly bitter, savory flavor.",
+        "image_url": ""
+      }
+    ]
+  
+  
+    
+  }
+  

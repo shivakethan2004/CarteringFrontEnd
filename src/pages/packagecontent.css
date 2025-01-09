@@ -1,0 +1,111 @@
+.menu_heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu_details{
+   
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;   
+    flex-wrap: wrap;
+    gap:1rem;
+    align-items: center;
+}
+.course-container{
+    flex: 1 1 calc(25% - 10px);
+    display: flex;
+    background-color: #1F1D2B;
+    border-radius: 2rem;
+    gap: 1rem;
+
+text-align: center;
+flex-direction: column;
+justify-content: center;
+
+
+}
+
+.add_button{
+    background: none;
+    background-color:transparent;
+    border: none;
+   
+    position: relative;
+    height: 20px;
+    width: 20px;
+   
+    
+}
+.add_button:focus {
+    outline: none;
+    background-color: transparent;
+    
+}
+.add_button:hover{
+    background-color: transparent;
+}
+.add_icon {
+    width: 20px; 
+    height: 20px; /* Adjust to desired size */
+    position: absolute;
+    right:0px;
+    bottom: 0px;
+
+  }
+  .add{
+    
+    display: flex;
+    justify-content: center;
+
+padding-bottom: 10px;
+  }
+ 
+  .itemlist{
+    margin: 10px;
+    padding: 10px;
+    background-color: #2f2f3a; /* Example background color */
+    border-radius: 10px;
+    transition: transform 0.7s ease-in-out, opacity 0.3s ease-in-out;
+   
+  }
+  .item-details{
+
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    right: 36%;
+    bottom: 20%;
+    background-color: white;
+    border-radius: 2rem;
+    padding: 10px;
+    color: black;
+    opacity: 0; /* Initially invisible */
+    visibility: hidden; /* Initially hidden */
+    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease; /* Smooth transition */
+    transform: scale(0.9); /* Start with slightly smaller scale */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  
+  }
+
+  .itemlist:hover .item-details{
+    opacity: 1; /* Make the element visible */
+    visibility: visible; /* Make the element visible */
+    transform: scale(1); /* Scale to full size */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+  }
+  .item_img{
+    height:80%;
+    border-radius: 2rem;
+  }
+  .img_background{
+    position: absolute;
+    z-index: -1;
+  }
