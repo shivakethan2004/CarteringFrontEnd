@@ -2,7 +2,7 @@
   "name": "public",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shivakethan2004.github.io/CateringNew",
+  "homepage": "https://shivakethan2004.github.io/CarteringFrontEnd/",
   "dependencies": {
     "@react-spring/parallax": "^9.7.5",
     "@testing-library/jest-dom": "^5.17.0",
