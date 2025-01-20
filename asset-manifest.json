@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CarteringFrontEnd/static/css/main.a60ad666.css",
-    "main.js": "/CarteringFrontEnd/static/js/main.22602871.js",
+    "main.js": "/CarteringFrontEnd/static/js/main.21a3de7b.js",
     "static/media/p-1.jpg": "/CarteringFrontEnd/static/media/p-1.c3587e50d77671f75e07.jpg",
     "static/media/Naivadyam-1.jpg": "/CarteringFrontEnd/static/media/Naivadyam-1.cb6db63df5123ab0d5f9.jpg",
     "static/media/Bhojyam-1.jpg": "/CarteringFrontEnd/static/media/Bhojyam-1.1ba3ba08b70a49c1cc14.jpg",
@@ -31,10 +31,10 @@
     "static/media/logo2.png": "/CarteringFrontEnd/static/media/logo2.5638329d6ad2e36ea6af.png",
     "index.html": "/CarteringFrontEnd/index.html",
     "main.a60ad666.css.map": "/CarteringFrontEnd/static/css/main.a60ad666.css.map",
-    "main.22602871.js.map": "/CarteringFrontEnd/static/js/main.22602871.js.map"
+    "main.21a3de7b.js.map": "/CarteringFrontEnd/static/js/main.21a3de7b.js.map"
   },
   "entrypoints": [
     "static/css/main.a60ad666.css",
-    "static/js/main.22602871.js"
+    "static/js/main.21a3de7b.js"
   ]
 }
