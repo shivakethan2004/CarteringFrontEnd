@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/CarteringFrontEnd/static/css/main.44aab8fa.css",
-    "main.js": "/CarteringFrontEnd/static/js/main.7f598f2c.js",
+    "main.css": "/CarteringFrontEnd/static/css/main.f6756de4.css",
+    "main.js": "/CarteringFrontEnd/static/js/main.d3f137c1.js",
+    "static/media/p-1.jpg": "/CarteringFrontEnd/static/media/p-1.c3587e50d77671f75e07.jpg",
     "static/media/Naivadyam-1.jpg": "/CarteringFrontEnd/static/media/Naivadyam-1.cb6db63df5123ab0d5f9.jpg",
+    "static/media/Bhojyam-1.jpg": "/CarteringFrontEnd/static/media/Bhojyam-1.1ba3ba08b70a49c1cc14.jpg",
     "static/media/Naivadyam-2.jpg": "/CarteringFrontEnd/static/media/Naivadyam-2.d45933080f7284a85698.jpg",
+    "static/media/Bhojyam-2.jpg": "/CarteringFrontEnd/static/media/Bhojyam-2.775f57c6d73a482a1a7c.jpg",
     "static/media/catringimage2.png": "/CarteringFrontEnd/static/media/catringimage2.27f8a1d9aa4534d636ba.png",
     "static/media/backgroud.png": "/CarteringFrontEnd/static/media/backgroud.f7570658de3b59c799e2.png",
+    "static/media/p2.jpg": "/CarteringFrontEnd/static/media/p2.7facb4c5eaf834211f8d.jpg",
     "static/media/background.png": "/CarteringFrontEnd/static/media/background.86b02a3efa05e76a1a7f.png",
     "static/media/shashank.png": "/CarteringFrontEnd/static/media/shashank.5b7be28376f9836a0f34.png",
     "static/media/sourabh.png": "/CarteringFrontEnd/static/media/sourabh.0cc685bc743d05fb6624.png",
@@ -26,11 +30,11 @@
     "static/media/add-icon.png": "/CarteringFrontEnd/static/media/add-icon.132696644e79a1f05c3b.png",
     "static/media/logo2.png": "/CarteringFrontEnd/static/media/logo2.5638329d6ad2e36ea6af.png",
     "index.html": "/CarteringFrontEnd/index.html",
-    "main.44aab8fa.css.map": "/CarteringFrontEnd/static/css/main.44aab8fa.css.map",
-    "main.7f598f2c.js.map": "/CarteringFrontEnd/static/js/main.7f598f2c.js.map"
+    "main.f6756de4.css.map": "/CarteringFrontEnd/static/css/main.f6756de4.css.map",
+    "main.d3f137c1.js.map": "/CarteringFrontEnd/static/js/main.d3f137c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.44aab8fa.css",
-    "static/js/main.7f598f2c.js"
+    "static/css/main.f6756de4.css",
+    "static/js/main.d3f137c1.js"
   ]
 }
